@@ -23,3 +23,4 @@ Distributed Systems Multi-threading WebSockets JWT Containerization Frontend Mic
 WebSockets Scalability Success is how high you bounce when you hit bottom. API Sharding A/B Testing
 Blockchain Security Container Orchestration Latency Optimization NLP Scalability Testing Database GraphQL Do what you love and the money will follow.
 Virtual Machines Act as if what you do makes a difference. It does. Stay hungry, stay foolish. OAuth Parallel Processing Big Data Version Control Database DevOps Algorithm Pull Request Sharding Agile
+Dream big and dare to fail. Data Science Innovation distinguishes between a leader and a follower. CI/CD Python Load Testing Big Data GraphQL Code Review Logging Success usually comes to those who are too busy to be looking for it. Kubernetes
