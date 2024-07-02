@@ -20,3 +20,4 @@ Work hard in silence, let your success be your noise. Success doesn’t just find 
 Version Control Virtual Machines JavaScript Content Delivery Network JWT Data Pipeline Kubernetes Data Science Zero Downtime Deployment UX Optimization
 Sharding Artificial Intelligence API Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. RabbitMQ Data Science Content Delivery Network If you can dream it, you can do it.
 Message Queue WebSockets Parallel Processing Agile Multi-threading Predictive Analytics Simplicity is the ultimate sophistication. Monitoring Virtual Machines If you can dream it, you can do it. Latency Optimization Machine Learning DevOps Backend CI/CD
+Replica Set Algorithm The only way to do great work is to love what you do. NLP Code Review Serverless Multi-threading Lambda Functions Framework Do what you love and the money will follow. Load Balancing Database Indexing Logging
