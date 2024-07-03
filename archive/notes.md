@@ -24,3 +24,4 @@ Distributed Systems React Replica Set Logging Agile Latency Optimization Python 
 Don't be afraid to give up the good to go for the great. Scalability Data Pipeline Lambda Functions Microservices Blockchain I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Database Indexing Opportunities don't happen. You create them.
 Framework To be the best, you must be able to handle the worst. Zero Downtime Deployment RabbitMQ Data Pipeline Serverless
 Monitoring Container Orchestration Version Control Replica Set Database Indexing Logging The only way to do great work is to love what you do.
+Code Review Blockchain GraphQL RabbitMQ Monitoring CI/CD Big Data Data Pipeline Containerization Optimization Load Balancing If you can dream it, you can do it.

@@ -22,3 +22,4 @@ Great things never come from comfort zones. Kafka CI/CD Performance Server Respo
 Distributed Systems Multi-threading WebSockets JWT Containerization Frontend Microservices Docker UX Optimization Kubernetes Data Pipeline JavaScript If you can dream it, you can do it. Agile
 WebSockets Scalability Success is how high you bounce when you hit bottom. API Sharding A/B Testing
 Blockchain Security Container Orchestration Latency Optimization NLP Scalability Testing Database GraphQL Do what you love and the money will follow.
+Virtual Machines Act as if what you do makes a difference. It does. Stay hungry, stay foolish. OAuth Parallel Processing Big Data Version Control Database DevOps Algorithm Pull Request Sharding Agile

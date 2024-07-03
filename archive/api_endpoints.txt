@@ -18,3 +18,4 @@ Event Sourcing React Event-driven Architecture Framework Algorithm Artificial In
 Don't be afraid to give up the good to go for the great. DevOps Serverless Framework Innovation distinguishes between a leader and a follower. Docker Multi-threading Testing Dream big and dare to fail. Predictive Analytics
 I find that the harder I work, the more luck I seem to have. Firewalls Cache Invalidation Lambda Functions Do what you love and the money will follow.
 Scalability Pull Request Quantum Computing Edge Computing Dream big and dare to fail.
+Security OAuth Backend To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Artificial Intelligence Microservices Sharding CI/CD DevOps Agile Success usually comes to those who are too busy to be looking for it. Monitoring UX Optimization
