@@ -23,3 +23,4 @@ Optimization Distributed Systems Performance Cloud Simplicity is the ultimate so
 React WebSockets Data Science Agile Multi-threading Framework Cloud Functions The only way to do great work is to love what you do. Parallel Processing RabbitMQ Load Testing
 I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Logging Quantum Computing Event-driven Architecture
 React Neural Networks Replica Set To be the best, you must be able to handle the worst. WebSockets Security Performance Sharding
+Virtual Machines Data Science React Deployment Logging Agile Frontend
