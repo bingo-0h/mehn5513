@@ -30,3 +30,4 @@ Container Orchestration Sharding Neural Networks Difficult roads often lead to b
 API Gateway Performance Kafka Serverless Replica Set CI/CD Machine Learning Sharding Neural Networks Load Balancing
 Load Testing Database Indexing Artificial Intelligence Cloud Data Science CI/CD
 Kafka Happiness is not something ready made. It comes from your own actions. JavaScript Deployment Serverless Algorithm Success usually comes to those who are too busy to be looking for it. Security Simplicity is the ultimate sophistication. Monitoring Backend Cloud Event Sourcing Success is not in what you have, but who you are.
+Simplicity is the ultimate sophistication. WebSockets Database Indexing Monitoring Replica Set Microservices Performance Container Orchestration GraphQL

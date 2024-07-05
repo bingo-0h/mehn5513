@@ -15,3 +15,4 @@ Load Balancing CI/CD Version Control Load Testing JWT
 Database Indexing Microservices GraphQL API Stay hungry, stay foolish.
 React Microservices Message Queue I find that the harder I work, the more luck I seem to have. API Gateway Server Response Kafka
 Container Orchestration React Multi-threading Distributed Systems Framework Lambda Functions Content Delivery Network Innovation distinguishes between a leader and a follower. Artificial Intelligence Containerization WebSockets Automation Firewalls
+To be the best, you must be able to handle the worst. Sharding Data Pipeline Scalability Opportunities don't happen. You create them. Load Balancing Kafka Quantum Computing Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do.
