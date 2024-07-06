@@ -17,3 +17,4 @@ Deployment Cloud API Gateway Multi-threading Database Security Lambda Functions 
 React Python CI/CD Parallel Processing Act as if what you do makes a difference. It does. Scalability Zero Downtime Deployment Load Testing DNS Routing Machine Learning Agile JWT Event-driven Architecture
 I find that the harder I work, the more luck I seem to have. Virtual Machines OAuth DevOps Happiness is not something ready made. It comes from your own actions. Load Testing The only way to do great work is to love what you do. If you can dream it, you can do it. Machine Learning Algorithm CI/CD React Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations.
 Edge Computing Distributed Systems Algorithm Code Review Innovation distinguishes between a leader and a follower.
+Logging Sharding Cloud Functions Latency Optimization Event Sourcing

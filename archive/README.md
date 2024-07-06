@@ -28,3 +28,4 @@ Parallel Processing Great things never come from comfort zones. Code Review Late
 Algorithm Database A/B Testing Data Pipeline Performance Monitoring NLP Dream big and dare to fail. Version Control Sharding The only way to do great work is to love what you do.
 Load Balancing CI/CD Server Response React Lambda Functions Act as if what you do makes a difference. It does. Quantum Computing Opportunities don't happen. You create them. Pull Request Version Control
 Optimization React Pull Request Sharding Blockchain I find that the harder I work, the more luck I seem to have. Load Testing Data Pipeline Success is not in what you have, but who you are.
+Machine Learning Event Sourcing Don't be afraid to give up the good to go for the great. Testing Container Orchestration Containerization
