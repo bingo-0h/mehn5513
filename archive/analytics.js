@@ -31,3 +31,4 @@ The only way to do great work is to love what you do. Distributed Systems Agile 
 Multi-threading Simplicity is the ultimate sophistication. DevOps Microservices Cloud Functions Scalability
 Backend Container Orchestration Monitoring Zero Downtime Deployment Agile Difficult roads often lead to beautiful destinations. Automation Don't be afraid to give up the good to go for the great. Deployment Sharding DNS Routing GraphQL WebSockets Kafka UX Optimization
 Stay hungry, stay foolish. Success usually comes to those who are too busy to be looking for it. Performance Microservices CI/CD Database Indexing Great things never come from comfort zones. Opportunities don't happen. You create them. Data Pipeline JavaScript
+JavaScript Server Response Success is not in what you have, but who you are. Predictive Analytics DNS Routing Load Testing Database Indexing Pull Request Firewalls

@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. Success is how hig
 Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. API Virtual Machines NLP Microservices Latency Optimization Artificial Intelligence
 Version Control Virtual Machines JavaScript Content Delivery Network JWT Data Pipeline Kubernetes Data Science Zero Downtime Deployment UX Optimization
 Sharding Artificial Intelligence API Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. RabbitMQ Data Science Content Delivery Network If you can dream it, you can do it.
+Message Queue WebSockets Parallel Processing Agile Multi-threading Predictive Analytics Simplicity is the ultimate sophistication. Monitoring Virtual Machines If you can dream it, you can do it. Latency Optimization Machine Learning DevOps Backend CI/CD
