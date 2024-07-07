@@ -25,3 +25,4 @@ Dream big and dare to fail. Sharding API Machine Learning UX Optimization
 Automation Python Innovation distinguishes between a leader and a follower. Parallel Processing Load Balancing
 Automation UX Optimization NLP Cache Invalidation JWT Zero Downtime Deployment
 Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Load Balancing Innovation distinguishes between a leader and a follower. Data Science Predictive Analytics Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. React Lambda Functions API Gateway Pull Request Server Response
+Latency Optimization DevOps Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Code Review Difficult roads often lead to beautiful destinations. Deployment Data Science The only way to do great work is to love what you do. Do what you love and the money will follow. Containerization Machine Learning API Kubernetes Kafka

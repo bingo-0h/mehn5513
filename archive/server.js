@@ -18,3 +18,4 @@ Neural Networks Frontend DNS Routing Success is not in what you have, but who yo
 Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. DevOps Message Queue Pull Request Great things never come from comfort zones.
 Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. API Virtual Machines NLP Microservices Latency Optimization Artificial Intelligence
 Version Control Virtual Machines JavaScript Content Delivery Network JWT Data Pipeline Kubernetes Data Science Zero Downtime Deployment UX Optimization
+Sharding Artificial Intelligence API Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. RabbitMQ Data Science Content Delivery Network If you can dream it, you can do it.
