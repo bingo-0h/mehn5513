@@ -12,3 +12,4 @@ WebSockets Event-driven Architecture NLP API Big Data Firewalls Optimization Suc
 Sharding Content Delivery Network RabbitMQ Server Response API
 GraphQL Artificial Intelligence Scalability Data Pipeline Quantum Computing Version Control Lambda Functions Agile RabbitMQ Testing Monitoring I find that the harder I work, the more luck I seem to have. Database Work hard in silence, let your success be your noise.
 JWT Content Delivery Network Stay hungry, stay foolish. Load Balancing Deployment
+Frontend API Load Testing The only way to do great work is to love what you do. UX Optimization
