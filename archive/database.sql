@@ -29,3 +29,4 @@ Happiness is not something ready made. It comes from your own actions. Machine L
 Container Orchestration Sharding Neural Networks Difficult roads often lead to beautiful destinations. Quantum Computing
 API Gateway Performance Kafka Serverless Replica Set CI/CD Machine Learning Sharding Neural Networks Load Balancing
 Load Testing Database Indexing Artificial Intelligence Cloud Data Science CI/CD
+Kafka Happiness is not something ready made. It comes from your own actions. JavaScript Deployment Serverless Algorithm Success usually comes to those who are too busy to be looking for it. Security Simplicity is the ultimate sophistication. Monitoring Backend Cloud Event Sourcing Success is not in what you have, but who you are.
