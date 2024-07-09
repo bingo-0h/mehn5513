@@ -26,3 +26,4 @@ Machine Learning Lambda Functions OAuth A/B Testing Stay hungry, stay foolish. C
 Deployment DNS Routing React Blockchain Python Simplicity is the ultimate sophistication. IoT Kubernetes Neural Networks
 Success usually comes to those who are too busy to be looking for it. Data Science To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Pull Request Security Event Sourcing Deployment Serverless Don't be afraid to give up the good to go for the great. Latency Optimization
 Machine Learning Success is not in what you have, but who you are. Parallel Processing Agile Opportunities don't happen. You create them.
+To be the best, you must be able to handle the worst. Cloud Functions Multi-threading Zero Downtime Deployment WebSockets OAuth Act as if what you do makes a difference. It does. Lambda Functions Code Review
