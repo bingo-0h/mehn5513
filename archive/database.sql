@@ -28,3 +28,4 @@ Event-driven Architecture Quantum Computing DNS Routing Cache Invalidation Firew
 Happiness is not something ready made. It comes from your own actions. Machine Learning Containerization JWT Edge Computing Blockchain Backend Dream big and dare to fail. Database Indexing
 Container Orchestration Sharding Neural Networks Difficult roads often lead to beautiful destinations. Quantum Computing
 API Gateway Performance Kafka Serverless Replica Set CI/CD Machine Learning Sharding Neural Networks Load Balancing
+Load Testing Database Indexing Artificial Intelligence Cloud Data Science CI/CD
