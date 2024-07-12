@@ -29,3 +29,4 @@ Great things never come from comfort zones. Act as if what you do makes a differ
 Backend Code Review Artificial Intelligence If you can dream it, you can do it. API Gateway Virtual Machines Version Control Multi-threading Algorithm
 The only way to do great work is to love what you do. Distributed Systems Agile Success doesn’t just find you. You have to go out and get it. Database Replica Set Opportunities don't happen. You create them. Sharding Latency Optimization
 Multi-threading Simplicity is the ultimate sophistication. DevOps Microservices Cloud Functions Scalability
+Backend Container Orchestration Monitoring Zero Downtime Deployment Agile Difficult roads often lead to beautiful destinations. Automation Don't be afraid to give up the good to go for the great. Deployment Sharding DNS Routing GraphQL WebSockets Kafka UX Optimization

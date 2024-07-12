@@ -14,3 +14,4 @@ API Act as if what you do makes a difference. It does. Lambda Functions Happines
 Load Balancing CI/CD Version Control Load Testing JWT
 Database Indexing Microservices GraphQL API Stay hungry, stay foolish.
 React Microservices Message Queue I find that the harder I work, the more luck I seem to have. API Gateway Server Response Kafka
+Container Orchestration React Multi-threading Distributed Systems Framework Lambda Functions Content Delivery Network Innovation distinguishes between a leader and a follower. Artificial Intelligence Containerization WebSockets Automation Firewalls
