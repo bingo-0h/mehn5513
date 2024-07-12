@@ -20,3 +20,4 @@ Lambda Functions Message Queue Zero Downtime Deployment RabbitMQ I find that the
 Testing Cache Invalidation JWT Load Balancing Machine Learning Success doesn’t just find you. You have to go out and get it. Blockchain Distributed Systems
 To be the best, you must be able to handle the worst. Database Indexing WebSockets Innovation distinguishes between a leader and a follower. Agile
 Innovation distinguishes between a leader and a follower. DevOps I find that the harder I work, the more luck I seem to have. Data Science Serverless API Difficult roads often lead to beautiful destinations.
+Distributed Systems React Replica Set Logging Agile Latency Optimization Python NLP Algorithm Sharding

@@ -27,3 +27,4 @@ Database Indexing I find that the harder I work, the more luck I seem to have. A
 Event-driven Architecture Quantum Computing DNS Routing Cache Invalidation Firewalls A/B Testing Frontend Great things never come from comfort zones. API UX Optimization Success doesn’t just find you. You have to go out and get it.
 Happiness is not something ready made. It comes from your own actions. Machine Learning Containerization JWT Edge Computing Blockchain Backend Dream big and dare to fail. Database Indexing
 Container Orchestration Sharding Neural Networks Difficult roads often lead to beautiful destinations. Quantum Computing
+API Gateway Performance Kafka Serverless Replica Set CI/CD Machine Learning Sharding Neural Networks Load Balancing
