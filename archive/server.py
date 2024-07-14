@@ -11,3 +11,4 @@ IoT Load Testing To be the best, you must be able to handle the worst. Don't be 
 WebSockets Event-driven Architecture NLP API Big Data Firewalls Optimization Success is how high you bounce when you hit bottom.
 Sharding Content Delivery Network RabbitMQ Server Response API
 GraphQL Artificial Intelligence Scalability Data Pipeline Quantum Computing Version Control Lambda Functions Agile RabbitMQ Testing Monitoring I find that the harder I work, the more luck I seem to have. Database Work hard in silence, let your success be your noise.
+JWT Content Delivery Network Stay hungry, stay foolish. Load Balancing Deployment
