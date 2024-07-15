@@ -16,3 +16,4 @@ Artificial Intelligence Serverless Simplicity is the ultimate sophistication. Re
 Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Framework React API Gateway Kubernetes
 Opportunities don't happen. You create them. NLP Load Balancing Python Cache Invalidation If you can dream it, you can do it. UX Optimization Code Review
 Don't be afraid to give up the good to go for the great. Automation Event-driven Architecture Parallel Processing Zero Downtime Deployment GraphQL Content Delivery Network Dream big and dare to fail.
+To be the best, you must be able to handle the worst. Latency Optimization Kubernetes Act as if what you do makes a difference. It does. Dream big and dare to fail. Multi-threading

@@ -20,3 +20,4 @@ Cloud Content Delivery Network Stay hungry, stay foolish. Version Control Loggin
 Container Orchestration Algorithm Event Sourcing Virtual Machines React Dream big and dare to fail. Testing Sharding
 Server Response Event-driven Architecture Success is not in what you have, but who you are. UX Optimization Opportunities don't happen. You create them. If you can dream it, you can do it. JWT Great things never come from comfort zones.
 Optimization Distributed Systems Performance Cloud Simplicity is the ultimate sophistication. Server Response RabbitMQ Data Science GraphQL A/B Testing Deployment
+React WebSockets Data Science Agile Multi-threading Framework Cloud Functions The only way to do great work is to love what you do. Parallel Processing RabbitMQ Load Testing
