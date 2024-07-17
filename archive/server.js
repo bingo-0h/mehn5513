@@ -17,3 +17,4 @@ Latency Optimization Python Kafka Innovation distinguishes between a leader and 
 Neural Networks Frontend DNS Routing Success is not in what you have, but who you are. Event Sourcing Quantum Computing API Gateway Content Delivery Network Machine Learning Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. Lambda Functions
 Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. DevOps Message Queue Pull Request Great things never come from comfort zones.
 Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. API Virtual Machines NLP Microservices Latency Optimization Artificial Intelligence
+Version Control Virtual Machines JavaScript Content Delivery Network JWT Data Pipeline Kubernetes Data Science Zero Downtime Deployment UX Optimization
