@@ -13,3 +13,4 @@ Replica Set Framework Success doesn’t just find you. You have to go out and get 
 Logging Success is not in what you have, but who you are. Framework API Backend Monitoring Lambda Functions
 Performance Version Control DNS Routing To be the best, you must be able to handle the worst. Dream big and dare to fail. Algorithm GraphQL Innovation distinguishes between a leader and a follower.
 Agile Pull Request Message Queue Big Data Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Quantum Computing Cloud Simplicity is the ultimate sophistication.
+Deployment Cloud API Gateway Multi-threading Database Security Lambda Functions Dream big and dare to fail. Algorithm Container Orchestration Cloud Functions DevOps DNS Routing Virtual Machines If you can dream it, you can do it.

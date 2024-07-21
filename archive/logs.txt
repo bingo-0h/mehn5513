@@ -21,3 +21,4 @@ Database Lambda Functions Event-driven Architecture Stay hungry, stay foolish. O
 Great things never come from comfort zones. Kafka CI/CD Performance Server Response OAuth Security Code Review Event-driven Architecture Distributed Systems Docker
 Distributed Systems Multi-threading WebSockets JWT Containerization Frontend Microservices Docker UX Optimization Kubernetes Data Pipeline JavaScript If you can dream it, you can do it. Agile
 WebSockets Scalability Success is how high you bounce when you hit bottom. API Sharding A/B Testing
+Blockchain Security Container Orchestration Latency Optimization NLP Scalability Testing Database GraphQL Do what you love and the money will follow.
