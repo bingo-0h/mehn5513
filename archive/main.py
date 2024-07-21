@@ -13,3 +13,4 @@ Success is not in what you have, but who you are. Content Delivery Network Loggi
 API Act as if what you do makes a difference. It does. Lambda Functions Happiness is not something ready made. It comes from your own actions. Backend Container Orchestration Algorithm
 Load Balancing CI/CD Version Control Load Testing JWT
 Database Indexing Microservices GraphQL API Stay hungry, stay foolish.
+React Microservices Message Queue I find that the harder I work, the more luck I seem to have. API Gateway Server Response Kafka
