@@ -28,3 +28,4 @@ Innovation distinguishes between a leader and a follower. DNS Routing Event-driv
 Great things never come from comfort zones. Act as if what you do makes a difference. It does. Server Response Multi-threading Success is how high you bounce when you hit bottom. NLP IoT
 Backend Code Review Artificial Intelligence If you can dream it, you can do it. API Gateway Virtual Machines Version Control Multi-threading Algorithm
 The only way to do great work is to love what you do. Distributed Systems Agile Success doesn’t just find you. You have to go out and get it. Database Replica Set Opportunities don't happen. You create them. Sharding Latency Optimization
+Multi-threading Simplicity is the ultimate sophistication. DevOps Microservices Cloud Functions Scalability

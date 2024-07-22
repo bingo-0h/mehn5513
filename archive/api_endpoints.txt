@@ -14,3 +14,4 @@ Optimization Parallel Processing Distributed Systems Docker Simplicity is the ul
 Great things never come from comfort zones. Kafka Server Response Optimization React Latency Optimization Cloud Framework Happiness is not something ready made. It comes from your own actions.
 Pull Request Neural Networks Dream big and dare to fail. JWT Microservices Great things never come from comfort zones. Data Science Quantum Computing Zero Downtime Deployment Optimization Stay hungry, stay foolish.
 Success usually comes to those who are too busy to be looking for it. Algorithm Opportunities don't happen. You create them. Serverless Cloud Functions Backend Agile Quantum Computing
+Event Sourcing React Event-driven Architecture Framework Algorithm Artificial Intelligence I find that the harder I work, the more luck I seem to have. API Security Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Cloud
