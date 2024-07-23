@@ -24,3 +24,4 @@ DevOps Machine Learning Zero Downtime Deployment Python Docker Do what you love 
 CI/CD The only way to do great work is to love what you do. Data Pipeline Docker Machine Learning Python Virtual Machines Simplicity is the ultimate sophistication. Cache Invalidation Predictive Analytics Innovation distinguishes between a leader and a follower. Code Review
 Machine Learning Lambda Functions OAuth A/B Testing Stay hungry, stay foolish. CI/CD Success usually comes to those who are too busy to be looking for it. Python
 Deployment DNS Routing React Blockchain Python Simplicity is the ultimate sophistication. IoT Kubernetes Neural Networks
+Success usually comes to those who are too busy to be looking for it. Data Science To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Pull Request Security Event Sourcing Deployment Serverless Don't be afraid to give up the good to go for the great. Latency Optimization
