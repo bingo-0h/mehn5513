@@ -19,3 +19,4 @@ Great things never come from comfort zones. Big Data Testing Message Queue Kafka
 JWT WebSockets Success usually comes to those who are too busy to be looking for it. Serverless Kafka Neural Networks JavaScript Event-driven Architecture Success doesn’t just find you. You have to go out and get it. DNS Routing GraphQL Parallel Processing Dream big and dare to fail. Machine Learning
 Scalability Predictive Analytics Zero Downtime Deployment Container Orchestration Content Delivery Network Backend Lambda Functions Latency Optimization Load Balancing Cloud Functions
 Sharding Security Predictive Analytics Microservices Python DNS Routing A/B Testing Simplicity is the ultimate sophistication. Optimization Container Orchestration Logging CI/CD
+Multi-threading Parallel Processing Logging Load Testing Big Data Scalability
