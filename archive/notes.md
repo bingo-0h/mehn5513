@@ -18,3 +18,4 @@ Serverless Machine Learning Parallel Processing Multi-threading Blockchain DevOp
 Performance Security A/B Testing Data Science Blockchain Testing Load Testing Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
 Lambda Functions Message Queue Zero Downtime Deployment RabbitMQ I find that the harder I work, the more luck I seem to have. Machine Learning Data Science Innovation distinguishes between a leader and a follower. Dream big and dare to fail. Data Pipeline Pull Request Cloud Functions
 Testing Cache Invalidation JWT Load Balancing Machine Learning Success doesn’t just find you. You have to go out and get it. Blockchain Distributed Systems
+To be the best, you must be able to handle the worst. Database Indexing WebSockets Innovation distinguishes between a leader and a follower. Agile

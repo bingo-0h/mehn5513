@@ -23,3 +23,4 @@ Simplicity is the ultimate sophistication. Zero Downtime Deployment Kubernetes T
 DevOps Machine Learning Zero Downtime Deployment Python Docker Do what you love and the money will follow.
 CI/CD The only way to do great work is to love what you do. Data Pipeline Docker Machine Learning Python Virtual Machines Simplicity is the ultimate sophistication. Cache Invalidation Predictive Analytics Innovation distinguishes between a leader and a follower. Code Review
 Machine Learning Lambda Functions OAuth A/B Testing Stay hungry, stay foolish. CI/CD Success usually comes to those who are too busy to be looking for it. Python
+Deployment DNS Routing React Blockchain Python Simplicity is the ultimate sophistication. IoT Kubernetes Neural Networks
