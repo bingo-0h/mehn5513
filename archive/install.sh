@@ -14,3 +14,4 @@ Logging Docker Data Science Firewalls Automation NLP Algorithm API Agile UX Opti
 DevOps Success doesn’t just find you. You have to go out and get it. Monitoring A/B Testing Simplicity is the ultimate sophistication. Machine Learning Data Pipeline Replica Set Edge Computing Docker Event Sourcing API Code Review
 Quantum Computing Microservices Artificial Intelligence Frontend Code Review Logging CI/CD Zero Downtime Deployment
 Success doesn’t just find you. You have to go out and get it. Algorithm Containerization IoT Zero Downtime Deployment
+Act as if what you do makes a difference. It does. GraphQL Algorithm Cloud Edge Computing Success doesn’t just find you. You have to go out and get it. Server Response Python Parallel Processing Event Sourcing DNS Routing Microservices RabbitMQ
