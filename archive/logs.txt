@@ -20,3 +20,4 @@ API Gateway The only way to do great work is to love what you do. Multi-threadin
 Database Lambda Functions Event-driven Architecture Stay hungry, stay foolish. OAuth Artificial Intelligence CI/CD JWT Happiness is not something ready made. It comes from your own actions. JavaScript Optimization API Gateway Serverless Great things never come from comfort zones.
 Great things never come from comfort zones. Kafka CI/CD Performance Server Response OAuth Security Code Review Event-driven Architecture Distributed Systems Docker
 Distributed Systems Multi-threading WebSockets JWT Containerization Frontend Microservices Docker UX Optimization Kubernetes Data Pipeline JavaScript If you can dream it, you can do it. Agile
+WebSockets Scalability Success is how high you bounce when you hit bottom. API Sharding A/B Testing
