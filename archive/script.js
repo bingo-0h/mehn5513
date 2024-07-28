@@ -18,3 +18,4 @@ Pull Request Load Balancing Cloud Functions Zero Downtime Deployment Multi-threa
 API A/B Testing Backend Container Orchestration Big Data JavaScript Data Pipeline Event Sourcing Database Indexing Event-driven Architecture Scalability DNS Routing To be the best, you must be able to handle the worst. Dream big and dare to fail. Containerization
 Cloud Content Delivery Network Stay hungry, stay foolish. Version Control Logging Success doesn’t just find you. You have to go out and get it. OAuth Security Scalability
 Container Orchestration Algorithm Event Sourcing Virtual Machines React Dream big and dare to fail. Testing Sharding
+Server Response Event-driven Architecture Success is not in what you have, but who you are. UX Optimization Opportunities don't happen. You create them. If you can dream it, you can do it. JWT Great things never come from comfort zones.

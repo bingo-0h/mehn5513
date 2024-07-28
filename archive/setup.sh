@@ -21,3 +21,4 @@ Database Testing Cache Invalidation Machine Learning Firewalls Work hard in sile
 Content Delivery Network Backend Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Container Orchestration
 Simplicity is the ultimate sophistication. Zero Downtime Deployment Kubernetes Testing Deployment Edge Computing NLP Server Response Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it.
 DevOps Machine Learning Zero Downtime Deployment Python Docker Do what you love and the money will follow.
+CI/CD The only way to do great work is to love what you do. Data Pipeline Docker Machine Learning Python Virtual Machines Simplicity is the ultimate sophistication. Cache Invalidation Predictive Analytics Innovation distinguishes between a leader and a follower. Code Review
