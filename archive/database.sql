@@ -25,3 +25,4 @@ Great things never come from comfort zones. Success doesn’t just find you. You h
 Testing Code Review Logging Containerization Cloud
 Database Indexing I find that the harder I work, the more luck I seem to have. Artificial Intelligence IoT Machine Learning DevOps
 Event-driven Architecture Quantum Computing DNS Routing Cache Invalidation Firewalls A/B Testing Frontend Great things never come from comfort zones. API UX Optimization Success doesn’t just find you. You have to go out and get it.
+Happiness is not something ready made. It comes from your own actions. Machine Learning Containerization JWT Edge Computing Blockchain Backend Dream big and dare to fail. Database Indexing
