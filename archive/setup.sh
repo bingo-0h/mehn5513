@@ -19,3 +19,4 @@ Logging Event-driven Architecture Cache Invalidation Act as if what you do makes
 CI/CD Database Indexing Performance Great things never come from comfort zones. Kubernetes Success doesn’t just find you. You have to go out and get it. Version Control Security
 Database Testing Cache Invalidation Machine Learning Firewalls Work hard in silence, let your success be your noise. Version Control NLP Cloud Functions Data Pipeline Parallel Processing IoT Great things never come from comfort zones. Docker If you can dream it, you can do it.
 Content Delivery Network Backend Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Container Orchestration
+Simplicity is the ultimate sophistication. Zero Downtime Deployment Kubernetes Testing Deployment Edge Computing NLP Server Response Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it.

@@ -21,3 +21,4 @@ Database Indexing Event Sourcing Kafka Framework Database RabbitMQ Success is no
 Stay hungry, stay foolish. Dream big and dare to fail. Opportunities don't happen. You create them. NLP Artificial Intelligence Work hard in silence, let your success be your noise. JWT
 JavaScript Cache Invalidation Success usually comes to those who are too busy to be looking for it. Algorithm Multi-threading Load Balancing Monitoring NLP Agile Event-driven Architecture A/B Testing Message Queue Database Indexing
 Event Sourcing RabbitMQ Server Response Replica Set Data Science Content Delivery Network DevOps Containerization Code Review Python I find that the harder I work, the more luck I seem to have. Microservices Message Queue Load Testing
+DNS Routing Code Review Microservices Edge Computing Algorithm RabbitMQ Server Response Do what you love and the money will follow. Predictive Analytics DevOps Monitoring Replica Set Security UX Optimization
