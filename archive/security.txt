@@ -26,3 +26,4 @@ Success usually comes to those who are too busy to be looking for it. Quantum Co
 DNS Routing Microservices Success doesn’t just find you. You have to go out and get it. Quantum Computing Blockchain Database Indexing Zero Downtime Deployment Framework Event Sourcing RabbitMQ Success is not in what you have, but who you are. Machine Learning Agile Scalability
 Sharding Success doesn’t just find you. You have to go out and get it. Neural Networks Latency Optimization Cache Invalidation UX Optimization The only way to do great work is to love what you do. JWT
 API Version Control Stay hungry, stay foolish. A/B Testing Cache Invalidation Artificial Intelligence Microservices Quantum Computing Replica Set Predictive Analytics Blockchain Optimization
+Success usually comes to those who are too busy to be looking for it. Multi-threading Python Agile Logging Parallel Processing IoT If you can dream it, you can do it. Event Sourcing
