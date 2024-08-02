@@ -24,3 +24,4 @@ Work hard in silence, let your success be your noise. Difficult roads often lead
 Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. JavaScript Agile UX Optimization Work hard in silence, let your success be your noise. Deployment Simplicity is the ultimate sophistication. IoT Machine Learning Algorithm Serverless Docker
 Testing Code Review Logging Containerization Cloud
 Database Indexing I find that the harder I work, the more luck I seem to have. Artificial Intelligence IoT Machine Learning DevOps
+Event-driven Architecture Quantum Computing DNS Routing Cache Invalidation Firewalls A/B Testing Frontend Great things never come from comfort zones. API UX Optimization Success doesn’t just find you. You have to go out and get it.
