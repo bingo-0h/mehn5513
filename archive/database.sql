@@ -23,3 +23,4 @@ Data Science Cache Invalidation If you can dream it, you can do it. Monitoring P
 Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Containerization Success is not in what you have, but who you are. The only way to do great work is to love what you do.
 Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. JavaScript Agile UX Optimization Work hard in silence, let your success be your noise. Deployment Simplicity is the ultimate sophistication. IoT Machine Learning Algorithm Serverless Docker
 Testing Code Review Logging Containerization Cloud
+Database Indexing I find that the harder I work, the more luck I seem to have. Artificial Intelligence IoT Machine Learning DevOps
