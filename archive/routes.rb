@@ -17,3 +17,4 @@ Message Queue To be the best, you must be able to handle the worst. Latency Opti
 UX Optimization Pull Request NLP Server Response Firewalls Edge Computing
 Great things never come from comfort zones. Big Data Testing Message Queue Kafka NLP Cloud Functions Lambda Functions Load Testing Microservices OAuth
 JWT WebSockets Success usually comes to those who are too busy to be looking for it. Serverless Kafka Neural Networks JavaScript Event-driven Architecture Success doesn’t just find you. You have to go out and get it. DNS Routing GraphQL Parallel Processing Dream big and dare to fail. Machine Learning
+Scalability Predictive Analytics Zero Downtime Deployment Container Orchestration Content Delivery Network Backend Lambda Functions Latency Optimization Load Balancing Cloud Functions

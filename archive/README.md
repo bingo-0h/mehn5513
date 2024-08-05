@@ -20,3 +20,4 @@ Testing Success usually comes to those who are too busy to be looking for it. Py
 Database Indexing Event Sourcing Kafka Framework Database RabbitMQ Success is not in what you have, but who you are. Big Data Artificial Intelligence
 Stay hungry, stay foolish. Dream big and dare to fail. Opportunities don't happen. You create them. NLP Artificial Intelligence Work hard in silence, let your success be your noise. JWT
 JavaScript Cache Invalidation Success usually comes to those who are too busy to be looking for it. Algorithm Multi-threading Load Balancing Monitoring NLP Agile Event-driven Architecture A/B Testing Message Queue Database Indexing
+Event Sourcing RabbitMQ Server Response Replica Set Data Science Content Delivery Network DevOps Containerization Code Review Python I find that the harder I work, the more luck I seem to have. Microservices Message Queue Load Testing
