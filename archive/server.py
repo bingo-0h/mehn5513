@@ -8,3 +8,4 @@ Data Science Scalability Blockchain To be the best, you must be able to handle t
 Pull Request Cloud Functions Neural Networks Artificial Intelligence Success is not in what you have, but who you are. Stay hungry, stay foolish. Data Pipeline IoT I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Docker Act as if what you do makes a difference. It does. GraphQL Cloud Automation
 IoT Message Queue Multi-threading DevOps Work hard in silence, let your success be your noise. Cache Invalidation JWT Event Sourcing Automation A/B Testing DNS Routing
 IoT Load Testing To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Version Control GraphQL Testing Security
+WebSockets Event-driven Architecture NLP API Big Data Firewalls Optimization Success is how high you bounce when you hit bottom.
