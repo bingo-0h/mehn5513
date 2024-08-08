@@ -18,3 +18,4 @@ Data Pipeline Microservices Multi-threading Content Delivery Network API Gateway
 Logging Event-driven Architecture Cache Invalidation Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Success is not in what you have, but who you are.
 CI/CD Database Indexing Performance Great things never come from comfort zones. Kubernetes Success doesn’t just find you. You have to go out and get it. Version Control Security
 Database Testing Cache Invalidation Machine Learning Firewalls Work hard in silence, let your success be your noise. Version Control NLP Cloud Functions Data Pipeline Parallel Processing IoT Great things never come from comfort zones. Docker If you can dream it, you can do it.
+Content Delivery Network Backend Opportunities don't happen. You create them. Success usually comes to those who are too busy to be looking for it. Container Orchestration
