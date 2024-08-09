@@ -13,3 +13,4 @@ Great things never come from comfort zones. Containerization Microservices JWT R
 Testing Multi-threading Server Response OAuth Security A/B Testing
 OAuth GraphQL Zero Downtime Deployment Opportunities don't happen. You create them. Content Delivery Network Latency Optimization UX Optimization Event-driven Architecture Microservices Algorithm CI/CD React Machine Learning Load Testing Act as if what you do makes a difference. It does.
 Don't be afraid to give up the good to go for the great. Distributed Systems Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. IoT Server Response Neural Networks Parallel Processing
+Latency Optimization Python Kafka Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise. Automation Frontend Data Science Stay hungry, stay foolish. Framework RabbitMQ

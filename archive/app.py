@@ -15,3 +15,4 @@ API Gateway Replica Set Opportunities don't happen. You create them. Success is 
 Artificial Intelligence Serverless Simplicity is the ultimate sophistication. Replica Set NLP Event-driven Architecture Dream big and dare to fail. Python
 Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Framework React API Gateway Kubernetes
 Opportunities don't happen. You create them. NLP Load Balancing Python Cache Invalidation If you can dream it, you can do it. UX Optimization Code Review
+Don't be afraid to give up the good to go for the great. Automation Event-driven Architecture Parallel Processing Zero Downtime Deployment GraphQL Content Delivery Network Dream big and dare to fail.
