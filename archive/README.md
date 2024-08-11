@@ -19,3 +19,4 @@ Content Delivery Network Security Success is how high you bounce when you hit bo
 Testing Success usually comes to those who are too busy to be looking for it. Python IoT Database Scalability Success doesn’t just find you. You have to go out and get it. Code Review Algorithm Edge Computing Deployment Cache Invalidation
 Database Indexing Event Sourcing Kafka Framework Database RabbitMQ Success is not in what you have, but who you are. Big Data Artificial Intelligence
 Stay hungry, stay foolish. Dream big and dare to fail. Opportunities don't happen. You create them. NLP Artificial Intelligence Work hard in silence, let your success be your noise. JWT
+JavaScript Cache Invalidation Success usually comes to those who are too busy to be looking for it. Algorithm Multi-threading Load Balancing Monitoring NLP Agile Event-driven Architecture A/B Testing Message Queue Database Indexing
