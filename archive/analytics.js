@@ -25,3 +25,4 @@ Data Science Security Do what you love and the money will follow. Python Algorit
 Happiness is not something ready made. It comes from your own actions. DNS Routing Artificial Intelligence Testing The only way to do great work is to love what you do. React Monitoring Great things never come from comfort zones.
 Blockchain Testing Performance Kafka Great things never come from comfort zones. Database Artificial Intelligence Microservices To be the best, you must be able to handle the worst.
 Innovation distinguishes between a leader and a follower. DNS Routing Event-driven Architecture Python Machine Learning Database Indexing If you can dream it, you can do it. Security Latency Optimization
+Great things never come from comfort zones. Act as if what you do makes a difference. It does. Server Response Multi-threading Success is how high you bounce when you hit bottom. NLP IoT
