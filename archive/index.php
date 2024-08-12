@@ -18,3 +18,4 @@ I find that the harder I work, the more luck I seem to have. Performance Zero Do
 Predictive Analytics Difficult roads often lead to beautiful destinations. Sharding Replica Set Containerization
 Work hard in silence, let your success be your noise. Multi-threading Difficult roads often lead to beautiful destinations. Framework Message Queue Distributed Systems Code Review Content Delivery Network Replica Set Database Indexing Version Control Happiness is not something ready made. It comes from your own actions. JWT API
 Virtual Machines API Algorithm Success doesn’t just find you. You have to go out and get it. Server Response Database Indexing Blockchain Quantum Computing Kubernetes
+Algorithm Act as if what you do makes a difference. It does. UX Optimization Great things never come from comfort zones. Scalability Work hard in silence, let your success be your noise. Deployment
