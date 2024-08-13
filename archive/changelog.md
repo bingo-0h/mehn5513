@@ -16,3 +16,4 @@ Docker Kubernetes CI/CD Load Balancing Python Replica Set Backend Message Queue 
 Database Distributed Systems Difficult roads often lead to beautiful destinations. Opportunities don't happen. You create them. Cache Invalidation Load Balancing React
 Security Framework RabbitMQ JWT OAuth UX Optimization Blockchain Load Testing Zero Downtime Deployment
 OAuth Edge Computing React Virtual Machines CI/CD Microservices
+Replica Set RabbitMQ Kubernetes Event-driven Architecture DNS Routing WebSockets CI/CD Firewalls Stay hungry, stay foolish.
