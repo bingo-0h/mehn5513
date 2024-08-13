@@ -23,3 +23,4 @@ GraphQL Content Delivery Network CI/CD Performance Frontend Opportunities don't 
 Distributed Systems Cache Invalidation Latency Optimization React Event-driven Architecture Frontend Performance Quantum Computing Monitoring To be the best, you must be able to handle the worst. Blockchain Docker Automation Lambda Functions
 Data Science Security Do what you love and the money will follow. Python Algorithm Event Sourcing RabbitMQ Lambda Functions
 Happiness is not something ready made. It comes from your own actions. DNS Routing Artificial Intelligence Testing The only way to do great work is to love what you do. React Monitoring Great things never come from comfort zones.
+Blockchain Testing Performance Kafka Great things never come from comfort zones. Database Artificial Intelligence Microservices To be the best, you must be able to handle the worst.
