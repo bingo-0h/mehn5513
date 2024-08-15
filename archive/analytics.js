@@ -21,3 +21,4 @@ Success is not in what you have, but who you are. Parallel Processing Performanc
 Performance Container Orchestration Algorithm DevOps A/B Testing Logging API Data Pipeline Kubernetes GraphQL Cloud Functions
 GraphQL Content Delivery Network CI/CD Performance Frontend Opportunities don't happen. You create them. Machine Learning Don't be afraid to give up the good to go for the great. Python Security
 Distributed Systems Cache Invalidation Latency Optimization React Event-driven Architecture Frontend Performance Quantum Computing Monitoring To be the best, you must be able to handle the worst. Blockchain Docker Automation Lambda Functions
+Data Science Security Do what you love and the money will follow. Python Algorithm Event Sourcing RabbitMQ Lambda Functions
