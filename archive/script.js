@@ -17,3 +17,4 @@ Act as if what you do makes a difference. It does. Performance Opportunities don
 Pull Request Load Balancing Cloud Functions Zero Downtime Deployment Multi-threading Content Delivery Network Firewalls API Gateway Python NLP API Performance Version Control
 API A/B Testing Backend Container Orchestration Big Data JavaScript Data Pipeline Event Sourcing Database Indexing Event-driven Architecture Scalability DNS Routing To be the best, you must be able to handle the worst. Dream big and dare to fail. Containerization
 Cloud Content Delivery Network Stay hungry, stay foolish. Version Control Logging Success doesn’t just find you. You have to go out and get it. OAuth Security Scalability
+Container Orchestration Algorithm Event Sourcing Virtual Machines React Dream big and dare to fail. Testing Sharding
