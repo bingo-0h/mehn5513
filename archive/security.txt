@@ -20,3 +20,4 @@ Great things never come from comfort zones. Success usually comes to those who a
 Replica Set Zero Downtime Deployment DevOps Innovation distinguishes between a leader and a follower. Optimization Logging
 Big Data Automation API Artificial Intelligence Load Balancing Version Control A/B Testing Logging To be the best, you must be able to handle the worst. Server Response
 Message Queue API Gateway Lambda Functions Great things never come from comfort zones. Event-driven Architecture Cache Invalidation JavaScript Load Testing Multi-threading Happiness is not something ready made. It comes from your own actions. Frontend Edge Computing Blockchain
+Cloud Innovation distinguishes between a leader and a follower. Replica Set Automation Don't be afraid to give up the good to go for the great. GraphQL Happiness is not something ready made. It comes from your own actions.
