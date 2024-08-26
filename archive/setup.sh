@@ -16,3 +16,4 @@ Don't be afraid to give up the good to go for the great. Do what you love and th
 Content Delivery Network A/B Testing Do what you love and the money will follow. Logging Work hard in silence, let your success be your noise. WebSockets Deployment Data Pipeline CI/CD Kafka Firewalls Quantum Computing
 Data Pipeline Microservices Multi-threading Content Delivery Network API Gateway DevOps GraphQL Message Queue Sharding Version Control Success doesn’t just find you. You have to go out and get it. API
 Logging Event-driven Architecture Cache Invalidation Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Success is not in what you have, but who you are.
+CI/CD Database Indexing Performance Great things never come from comfort zones. Kubernetes Success doesn’t just find you. You have to go out and get it. Version Control Security
