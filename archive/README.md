@@ -17,3 +17,4 @@ Act as if what you do makes a difference. It does. API Gateway WebSockets IoT Su
 RabbitMQ Neural Networks The only way to do great work is to love what you do. Edge Computing Kubernetes Blockchain CI/CD Pull Request Do what you love and the money will follow. Replica Set
 Content Delivery Network Security Success is how high you bounce when you hit bottom. Containerization Quantum Computing DNS Routing Don't be afraid to give up the good to go for the great. Act as if what you do makes a difference. It does.
 Testing Success usually comes to those who are too busy to be looking for it. Python IoT Database Scalability Success doesn’t just find you. You have to go out and get it. Code Review Algorithm Edge Computing Deployment Cache Invalidation
+Database Indexing Event Sourcing Kafka Framework Database RabbitMQ Success is not in what you have, but who you are. Big Data Artificial Intelligence

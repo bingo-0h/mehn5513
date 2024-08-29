@@ -14,3 +14,4 @@ Dream big and dare to fail. Event-driven Architecture Agile JWT Lambda Functions
 Database Indexing I find that the harder I work, the more luck I seem to have. Microservices DNS Routing Success is how high you bounce when you hit bottom. Event-driven Architecture
 Replica Set Python UX Optimization IoT Event-driven Architecture Kafka Work hard in silence, let your success be your noise. Multi-threading
 Message Queue To be the best, you must be able to handle the worst. Latency Optimization Content Delivery Network Event Sourcing Serverless Success is how high you bounce when you hit bottom. WebSockets Simplicity is the ultimate sophistication. Firewalls Python Success usually comes to those who are too busy to be looking for it. Monitoring Replica Set Happiness is not something ready made. It comes from your own actions.
+UX Optimization Pull Request NLP Server Response Firewalls Edge Computing

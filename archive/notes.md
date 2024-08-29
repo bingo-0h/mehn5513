@@ -15,3 +15,4 @@ Lambda Functions Optimization Great things never come from comfort zones. To be 
 IoT Container Orchestration Algorithm Artificial Intelligence I find that the harder I work, the more luck I seem to have. React API Gateway Multi-threading Cloud Code Review Do what you love and the money will follow. Success is not in what you have, but who you are. OAuth Performance Server Response
 Kubernetes Big Data API To be the best, you must be able to handle the worst. DNS Routing React Frontend The only way to do great work is to love what you do.
 Serverless Machine Learning Parallel Processing Multi-threading Blockchain DevOps Distributed Systems
+Performance Security A/B Testing Data Science Blockchain Testing Load Testing Opportunities don't happen. You create them. To be the best, you must be able to handle the worst.
