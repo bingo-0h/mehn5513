@@ -10,3 +10,4 @@ Docker Microservices Blockchain Code Review Framework Simplicity is the ultimate
 Database Stay hungry, stay foolish. Microservices Testing Latency Optimization Simplicity is the ultimate sophistication.
 Great things never come from comfort zones. API Code Review Load Testing Replica Set Deployment A/B Testing Database Artificial Intelligence
 Database Indexing Optimization Containerization Backend Serverless Happiness is not something ready made. It comes from your own actions.
+Logging Docker Data Science Firewalls Automation NLP Algorithm API Agile UX Optimization Blockchain If you can dream it, you can do it. CI/CD Don't be afraid to give up the good to go for the great. Success is not in what you have, but who you are.
