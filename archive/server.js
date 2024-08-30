@@ -11,3 +11,4 @@ Distributed Systems Firewalls Algorithm Performance DevOps If you can dream it, 
 Work hard in silence, let your success be your noise. Testing Don't be afraid to give up the good to go for the great. Firewalls Server Response Latency Optimization Logging Zero Downtime Deployment
 Great things never come from comfort zones. Containerization Microservices JWT React Agile DevOps Distributed Systems Success usually comes to those who are too busy to be looking for it. Deployment To be the best, you must be able to handle the worst. Server Response Scalability Cloud
 Testing Multi-threading Server Response OAuth Security A/B Testing
+OAuth GraphQL Zero Downtime Deployment Opportunities don't happen. You create them. Content Delivery Network Latency Optimization UX Optimization Event-driven Architecture Microservices Algorithm CI/CD React Machine Learning Load Testing Act as if what you do makes a difference. It does.
