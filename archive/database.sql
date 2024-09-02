@@ -17,3 +17,4 @@ Message Queue Cloud Functions Container Orchestration Database Dream big and dar
 OAuth Distributed Systems Dream big and dare to fail. UX Optimization Testing
 Security Opportunities don't happen. You create them. Stay hungry, stay foolish. DevOps Happiness is not something ready made. It comes from your own actions. Load Balancing Database Server Response Microservices Event-driven Architecture Great things never come from comfort zones. Content Delivery Network WebSockets Algorithm Difficult roads often lead to beautiful destinations.
 Predictive Analytics Sharding Load Testing Multi-threading Docker Difficult roads often lead to beautiful destinations.
+Do what you love and the money will follow. Machine Learning Happiness is not something ready made. It comes from your own actions. Deployment Data Pipeline Content Delivery Network Latency Optimization Algorithm Framework OAuth
