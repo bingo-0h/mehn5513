@@ -12,3 +12,4 @@ Artificial Intelligence RabbitMQ Sharding DNS Routing Content Delivery Network L
 Kubernetes Great things never come from comfort zones. If you can dream it, you can do it. Success is not in what you have, but who you are. Replica Set
 Dream big and dare to fail. Event-driven Architecture Agile JWT Lambda Functions Monitoring Do what you love and the money will follow. UX Optimization Microservices
 Database Indexing I find that the harder I work, the more luck I seem to have. Microservices DNS Routing Success is how high you bounce when you hit bottom. Event-driven Architecture
+Replica Set Python UX Optimization IoT Event-driven Architecture Kafka Work hard in silence, let your success be your noise. Multi-threading
