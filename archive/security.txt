@@ -16,3 +16,4 @@ Container Orchestration NLP Cloud Success is how high you bounce when you hit bo
 Simplicity is the ultimate sophistication. Parallel Processing Automation Frontend GraphQL
 Difficult roads often lead to beautiful destinations. Kafka Event Sourcing Microservices Virtual Machines I find that the harder I work, the more luck I seem to have. Data Pipeline API Gateway Version Control CI/CD Zero Downtime Deployment Pull Request
 If you can dream it, you can do it. IoT Firewalls API Gateway Parallel Processing
+Great things never come from comfort zones. Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Event Sourcing Performance React Monitoring Difficult roads often lead to beautiful destinations. Kafka
