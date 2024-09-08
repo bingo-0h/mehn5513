@@ -9,3 +9,4 @@ Microservices Python Data Pipeline Serverless Event Sourcing Testing Containeriz
 Docker Microservices Blockchain Code Review Framework Simplicity is the ultimate sophistication. UX Optimization Serverless Latency Optimization Scalability Success is how high you bounce when you hit bottom.
 Database Stay hungry, stay foolish. Microservices Testing Latency Optimization Simplicity is the ultimate sophistication.
 Great things never come from comfort zones. API Code Review Load Testing Replica Set Deployment A/B Testing Database Artificial Intelligence
+Database Indexing Optimization Containerization Backend Serverless Happiness is not something ready made. It comes from your own actions.
