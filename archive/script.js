@@ -15,3 +15,4 @@ Difficult roads often lead to beautiful destinations. Event Sourcing RabbitMQ Fr
 Parallel Processing Server Response JWT Firewalls API Work hard in silence, let your success be your noise. NLP
 Act as if what you do makes a difference. It does. Performance Opportunities don't happen. You create them. UX Optimization Container Orchestration
 Pull Request Load Balancing Cloud Functions Zero Downtime Deployment Multi-threading Content Delivery Network Firewalls API Gateway Python NLP API Performance Version Control
+API A/B Testing Backend Container Orchestration Big Data JavaScript Data Pipeline Event Sourcing Database Indexing Event-driven Architecture Scalability DNS Routing To be the best, you must be able to handle the worst. Dream big and dare to fail. Containerization

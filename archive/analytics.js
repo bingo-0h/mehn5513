@@ -19,3 +19,4 @@ Content Delivery Network Kafka Replica Set Cache Invalidation Cloud Functions Ra
 UX Optimization Frontend Optimization Logging JWT Testing Code Review Cloud
 Success is not in what you have, but who you are. Parallel Processing Performance Container Orchestration React Framework Database Indexing Predictive Analytics Kafka Security Sharding To be the best, you must be able to handle the worst. Content Delivery Network Python
 Performance Container Orchestration Algorithm DevOps A/B Testing Logging API Data Pipeline Kubernetes GraphQL Cloud Functions
+GraphQL Content Delivery Network CI/CD Performance Frontend Opportunities don't happen. You create them. Machine Learning Don't be afraid to give up the good to go for the great. Python Security
