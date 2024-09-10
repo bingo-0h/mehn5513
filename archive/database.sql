@@ -16,3 +16,4 @@ Algorithm IoT Firewalls Don't be afraid to give up the good to go for the great.
 Message Queue Cloud Functions Container Orchestration Database Dream big and dare to fail. A/B Testing Framework Happiness is not something ready made. It comes from your own actions. Agile Success is how high you bounce when you hit bottom. Distributed Systems Kubernetes OAuth Firewalls GraphQL
 OAuth Distributed Systems Dream big and dare to fail. UX Optimization Testing
 Security Opportunities don't happen. You create them. Stay hungry, stay foolish. DevOps Happiness is not something ready made. It comes from your own actions. Load Balancing Database Server Response Microservices Event-driven Architecture Great things never come from comfort zones. Content Delivery Network WebSockets Algorithm Difficult roads often lead to beautiful destinations.
+Predictive Analytics Sharding Load Testing Multi-threading Docker Difficult roads often lead to beautiful destinations.
