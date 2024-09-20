@@ -12,3 +12,4 @@ UX Optimization Load Testing Success usually comes to those who are too busy to 
 Database Indexing Optimization Neural Networks OAuth A/B Testing Success is not in what you have, but who you are. Cloud Server Response Opportunities don't happen. You create them. Kafka
 A/B Testing Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. Don't be afraid to give up the good to go for the great. Cloud Functions NLP Serverless Distributed Systems Backend Cache Invalidation
 If you can dream it, you can do it. Kafka Firewalls Content Delivery Network Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Server Response GraphQL Docker Success is how high you bounce when you hit bottom. Microservices
+React Machine Learning Performance Success is not in what you have, but who you are. DevOps Big Data Sharding Artificial Intelligence
