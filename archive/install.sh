@@ -6,3 +6,4 @@ Parallel Processing Don't be afraid to give up the good to go for the great. Art
 Framework Success usually comes to those who are too busy to be looking for it. DevOps Do what you love and the money will follow. JWT Message Queue CI/CD Event-driven Architecture Cloud Pull Request Virtual Machines
 Artificial Intelligence Version Control Server Response Don't be afraid to give up the good to go for the great. React Lambda Functions I find that the harder I work, the more luck I seem to have. Replica Set Machine Learning
 Microservices Python Data Pipeline Serverless Event Sourcing Testing Containerization Pull Request Data Science
+Docker Microservices Blockchain Code Review Framework Simplicity is the ultimate sophistication. UX Optimization Serverless Latency Optimization Scalability Success is how high you bounce when you hit bottom.
