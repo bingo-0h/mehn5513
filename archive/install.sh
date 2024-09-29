@@ -5,3 +5,4 @@ Dream big and dare to fail. Firewalls Content Delivery Network JavaScript Cloud 
 Parallel Processing Don't be afraid to give up the good to go for the great. Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Difficult roads often lead to beautiful destinations. Virtual Machines Pull Request Neural Networks Sharding NLP
 Framework Success usually comes to those who are too busy to be looking for it. DevOps Do what you love and the money will follow. JWT Message Queue CI/CD Event-driven Architecture Cloud Pull Request Virtual Machines
 Artificial Intelligence Version Control Server Response Don't be afraid to give up the good to go for the great. React Lambda Functions I find that the harder I work, the more luck I seem to have. Replica Set Machine Learning
+Microservices Python Data Pipeline Serverless Event Sourcing Testing Containerization Pull Request Data Science
