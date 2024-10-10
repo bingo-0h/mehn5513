@@ -18,3 +18,4 @@ DevOps Data Science Lambda Functions Frontend React Data Pipeline Cloud Dream bi
 Content Delivery Network Kafka Replica Set Cache Invalidation Cloud Functions RabbitMQ Work hard in silence, let your success be your noise. Great things never come from comfort zones. Serverless
 UX Optimization Frontend Optimization Logging JWT Testing Code Review Cloud
 Success is not in what you have, but who you are. Parallel Processing Performance Container Orchestration React Framework Database Indexing Predictive Analytics Kafka Security Sharding To be the best, you must be able to handle the worst. Content Delivery Network Python
+Performance Container Orchestration Algorithm DevOps A/B Testing Logging API Data Pipeline Kubernetes GraphQL Cloud Functions
