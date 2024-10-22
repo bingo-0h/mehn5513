@@ -17,3 +17,4 @@ DNS Routing Automation Kubernetes If you can dream it, you can do it. Performanc
 DevOps Data Science Lambda Functions Frontend React Data Pipeline Cloud Dream big and dare to fail. Docker Neural Networks Load Balancing API Gateway
 Content Delivery Network Kafka Replica Set Cache Invalidation Cloud Functions RabbitMQ Work hard in silence, let your success be your noise. Great things never come from comfort zones. Serverless
 UX Optimization Frontend Optimization Logging JWT Testing Code Review Cloud
+Success is not in what you have, but who you are. Parallel Processing Performance Container Orchestration React Framework Database Indexing Predictive Analytics Kafka Security Sharding To be the best, you must be able to handle the worst. Content Delivery Network Python

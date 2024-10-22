@@ -10,3 +10,4 @@ Cache Invalidation Success doesn’t just find you. You have to go out and get it.
 Distributed Systems Containerization Opportunities don't happen. You create them. Predictive Analytics Machine Learning Lambda Functions Server Response NLP GraphQL API Gateway React Simplicity is the ultimate sophistication. Pull Request Success is how high you bounce when you hit bottom. Logging
 Database Indexing Artificial Intelligence Zero Downtime Deployment Automation Latency Optimization Kafka Event Sourcing Data Science Lambda Functions
 Testing Server Response UX Optimization API Gateway Cache Invalidation Version Control Algorithm Stay hungry, stay foolish. Microservices
+Cache Invalidation Stay hungry, stay foolish. Virtual Machines Pull Request Server Response Optimization Happiness is not something ready made. It comes from your own actions. Scalability Framework Event-driven Architecture
