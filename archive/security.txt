@@ -12,3 +12,4 @@ Security Event Sourcing Difficult roads often lead to beautiful destinations. Te
 Parallel Processing Lambda Functions Logging To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Database Indexing Framework Success is how high you bounce when you hit bottom. API
 Machine Learning Edge Computing API Gateway Message Queue DevOps Quantum Computing Database Indexing Testing
 Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. GraphQL Optimization Data Science Scalability JWT Firewalls The only way to do great work is to love what you do. Distributed Systems Stay hungry, stay foolish.
+Container Orchestration NLP Cloud Success is how high you bounce when you hit bottom. Python Monitoring Agile DNS Routing Database Load Balancing OAuth If you can dream it, you can do it. Pull Request Simplicity is the ultimate sophistication.
