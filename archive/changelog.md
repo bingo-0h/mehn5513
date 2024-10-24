@@ -11,3 +11,4 @@ Distributed Systems Parallel Processing Pull Request Database Indexing API Gatew
 Testing To be the best, you must be able to handle the worst. Logging Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Backend Sharding JavaScript Success usually comes to those who are too busy to be looking for it. Code Review Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication.
 Serverless GraphQL Cloud Testing Distributed Systems
 Difficult roads often lead to beautiful destinations. Performance Database GraphQL Simplicity is the ultimate sophistication.
+Cloud Functions Monitoring Success doesn’t just find you. You have to go out and get it. Scalability Blockchain Version Control
