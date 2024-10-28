@@ -9,3 +9,4 @@ Great things never come from comfort zones. Multi-threading Deployment Edge Comp
 Big Data Success is not in what you have, but who you are. Latency Optimization Artificial Intelligence Algorithm Machine Learning Data Science To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Agile Serverless Success doesn’t just find you. You have to go out and get it.
 CI/CD DNS Routing Frontend JavaScript JWT Version Control To be the best, you must be able to handle the worst.
 UX Optimization Load Testing Success usually comes to those who are too busy to be looking for it. DevOps Act as if what you do makes a difference. It does.
+Database Indexing Optimization Neural Networks OAuth A/B Testing Success is not in what you have, but who you are. Cloud Server Response Opportunities don't happen. You create them. Kafka

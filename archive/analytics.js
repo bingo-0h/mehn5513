@@ -15,3 +15,4 @@ Logging Agile Innovation distinguishes between a leader and a follower. Backend 
 Security Firewalls Containerization Don't be afraid to give up the good to go for the great. Virtual Machines Success doesn’t just find you. You have to go out and get it.
 DNS Routing Automation Kubernetes If you can dream it, you can do it. Performance Success is not in what you have, but who you are. GraphQL Security Server Response Predictive Analytics Database Docker
 DevOps Data Science Lambda Functions Frontend React Data Pipeline Cloud Dream big and dare to fail. Docker Neural Networks Load Balancing API Gateway
+Content Delivery Network Kafka Replica Set Cache Invalidation Cloud Functions RabbitMQ Work hard in silence, let your success be your noise. Great things never come from comfort zones. Serverless
