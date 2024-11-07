@@ -4,3 +4,4 @@ Big Data DNS Routing Artificial Intelligence Deployment GraphQL Database Indexin
 Difficult roads often lead to beautiful destinations. Logging Distributed Systems Algorithm Cloud Functions Scalability Lambda Functions
 A/B Testing If you can dream it, you can do it. Frontend IoT Neural Networks Backend DNS Routing Act as if what you do makes a difference. It does.
 Blockchain RabbitMQ Event Sourcing Database Indexing Success doesn’t just find you. You have to go out and get it. API Gateway Logging Load Testing GraphQL Kafka
+Cloud Functions GraphQL Lambda Functions Distributed Systems I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Pull Request CI/CD Machine Learning Cache Invalidation Kubernetes Message Queue UX Optimization Container Orchestration
