@@ -8,3 +8,4 @@ Blockchain Great things never come from comfort zones. Deployment IoT Testing Do
 Blockchain GraphQL Scalability Quantum Computing Event Sourcing Success is not in what you have, but who you are. Sharding Version Control React Zero Downtime Deployment Machine Learning
 API Gateway Machine Learning Security Success doesn’t just find you. You have to go out and get it. Event Sourcing Agile Happiness is not something ready made. It comes from your own actions.
 Agile API Gateway Logging Optimization Scalability Stay hungry, stay foolish. Content Delivery Network Artificial Intelligence Edge Computing
+Microservices Logging Database Agile Backend Machine Learning Sharding Opportunities don't happen. You create them. Latency Optimization The only way to do great work is to love what you do. Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Artificial Intelligence
