@@ -8,3 +8,4 @@ Container Orchestration IoT Database Parallel Processing Frontend Opportunities 
 Cloud Functions If you can dream it, you can do it. Frontend Performance Data Pipeline RabbitMQ
 Work hard in silence, let your success be your noise. Kubernetes If you can dream it, you can do it. Big Data Load Testing WebSockets JWT Code Review Multi-threading Frontend Lambda Functions Microservices Sharding
 Distributed Systems Parallel Processing Pull Request Database Indexing API Gateway Lambda Functions Database
+Testing To be the best, you must be able to handle the worst. Logging Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Backend Sharding JavaScript Success usually comes to those who are too busy to be looking for it. Code Review Work hard in silence, let your success be your noise. Simplicity is the ultimate sophistication.

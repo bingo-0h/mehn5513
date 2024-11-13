@@ -3,3 +3,4 @@ Containerization Big Data Database Indexing Cloud Functions WebSockets Happiness
 Big Data DNS Routing Artificial Intelligence Deployment GraphQL Database Indexing Containerization Quantum Computing Happiness is not something ready made. It comes from your own actions. RabbitMQ NLP Kubernetes Do what you love and the money will follow.
 Difficult roads often lead to beautiful destinations. Logging Distributed Systems Algorithm Cloud Functions Scalability Lambda Functions
 A/B Testing If you can dream it, you can do it. Frontend IoT Neural Networks Backend DNS Routing Act as if what you do makes a difference. It does.
+Blockchain RabbitMQ Event Sourcing Database Indexing Success doesn’t just find you. You have to go out and get it. API Gateway Logging Load Testing GraphQL Kafka

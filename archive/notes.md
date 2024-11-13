@@ -10,3 +10,4 @@ Cloud Functions Load Testing Data Science Server Response Act as if what you do 
 Big Data NLP Monitoring Serverless Database Scalability WebSockets
 Happiness is not something ready made. It comes from your own actions. Kubernetes NLP Frontend Database Indexing
 Load Balancing Data Pipeline Distributed Systems Docker Sharding Dream big and dare to fail. Container Orchestration
+Deployment To be the best, you must be able to handle the worst. React Framework Dream big and dare to fail. Big Data Kubernetes Microservices
