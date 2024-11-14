@@ -11,3 +11,4 @@ Do what you love and the money will follow. Framework Backend Virtual Machines T
 CI/CD Virtual Machines Sharding Logging Stay hungry, stay foolish. Monitoring JWT Work hard in silence, let your success be your noise. Data Science
 Database Indexing Zero Downtime Deployment Quantum Computing Happiness is not something ready made. It comes from your own actions. Neural Networks Firewalls GraphQL JavaScript Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication.
 Machine Learning Security Containerization If you can dream it, you can do it. Firewalls Pull Request Deployment Testing Docker The only way to do great work is to love what you do.
+The only way to do great work is to love what you do. Latency Optimization Opportunities don't happen. You create them. Event-driven Architecture Docker Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Backend Zero Downtime Deployment Python
