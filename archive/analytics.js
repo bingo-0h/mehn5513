@@ -14,3 +14,4 @@ DevOps Data Science GraphQL Agile Kubernetes Don't be afraid to give up the good
 Logging Agile Innovation distinguishes between a leader and a follower. Backend Docker I find that the harder I work, the more luck I seem to have. Big Data Content Delivery Network Microservices API Gateway Algorithm Optimization Firewalls Great things never come from comfort zones.
 Security Firewalls Containerization Don't be afraid to give up the good to go for the great. Virtual Machines Success doesn’t just find you. You have to go out and get it.
 DNS Routing Automation Kubernetes If you can dream it, you can do it. Performance Success is not in what you have, but who you are. GraphQL Security Server Response Predictive Analytics Database Docker
+DevOps Data Science Lambda Functions Frontend React Data Pipeline Cloud Dream big and dare to fail. Docker Neural Networks Load Balancing API Gateway
