@@ -11,3 +11,4 @@ Event-driven Architecture Monitoring Pull Request API Gateway Big Data React Dat
 Testing Content Delivery Network UX Optimization Automation Algorithm Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Agile
 Docker Automation NLP If you can dream it, you can do it. Database Indexing A/B Testing Code Review Data Science Backend Monitoring
 NLP JWT Content Delivery Network Load Testing Difficult roads often lead to beautiful destinations. Lambda Functions Firewalls Quantum Computing Kubernetes Success is how high you bounce when you hit bottom.
+Difficult roads often lead to beautiful destinations. Event Sourcing RabbitMQ Framework Performance
