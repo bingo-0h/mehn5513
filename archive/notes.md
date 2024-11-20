@@ -9,3 +9,4 @@ Latency Optimization Success doesn’t just find you. You have to go out and get i
 Cloud Functions Load Testing Data Science Server Response Act as if what you do makes a difference. It does. UX Optimization NLP Database If you can dream it, you can do it. Docker
 Big Data NLP Monitoring Serverless Database Scalability WebSockets
 Happiness is not something ready made. It comes from your own actions. Kubernetes NLP Frontend Database Indexing
+Load Balancing Data Pipeline Distributed Systems Docker Sharding Dream big and dare to fail. Container Orchestration
