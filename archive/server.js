@@ -8,3 +8,4 @@ Microservices Replica Set Message Queue Backend Serverless Event Sourcing I find
 WebSockets Pull Request Framework Security Success usually comes to those who are too busy to be looking for it. Database Indexing Automation Big Data Do what you love and the money will follow. Kafka Server Response
 Optimization Do what you love and the money will follow. NLP Distributed Systems Stay hungry, stay foolish. API Cache Invalidation I find that the harder I work, the more luck I seem to have. Artificial Intelligence Blockchain Container Orchestration
 Distributed Systems Firewalls Algorithm Performance DevOps If you can dream it, you can do it. GraphQL UX Optimization Docker Frontend Event-driven Architecture Message Queue
+Work hard in silence, let your success be your noise. Testing Don't be afraid to give up the good to go for the great. Firewalls Server Response Latency Optimization Logging Zero Downtime Deployment
