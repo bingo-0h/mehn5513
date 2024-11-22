@@ -9,3 +9,4 @@ Cache Invalidation Artificial Intelligence Kubernetes Innovation distinguishes b
 Event Sourcing Lambda Functions Latency Optimization Container Orchestration Neural Networks A/B Testing Success is how high you bounce when you hit bottom.
 Happiness is not something ready made. It comes from your own actions. A/B Testing IoT Artificial Intelligence Difficult roads often lead to beautiful destinations.
 Database Message Queue OAuth Load Testing Success doesn’t just find you. You have to go out and get it. API Security Virtual Machines Replica Set Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions.
+Event-driven Architecture Load Testing Load Balancing Data Science Monitoring Success is how high you bounce when you hit bottom. GraphQL Multi-threading Security Server Response Scalability Sharding Simplicity is the ultimate sophistication.
