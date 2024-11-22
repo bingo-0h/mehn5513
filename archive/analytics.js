@@ -11,3 +11,4 @@ Virtual Machines Monitoring Stay hungry, stay foolish. GraphQL Simplicity is the
 Algorithm Database Indexing Parallel Processing Cache Invalidation Opportunities don't happen. You create them. Zero Downtime Deployment Artificial Intelligence Edge Computing Frontend
 Act as if what you do makes a difference. It does. A/B Testing Data Science React Cloud Docker Framework Neural Networks Agile Load Balancing Database Indexing Great things never come from comfort zones.
 DevOps Data Science GraphQL Agile Kubernetes Don't be afraid to give up the good to go for the great. Microservices Artificial Intelligence If you can dream it, you can do it.
+Logging Agile Innovation distinguishes between a leader and a follower. Backend Docker I find that the harder I work, the more luck I seem to have. Big Data Content Delivery Network Microservices API Gateway Algorithm Optimization Firewalls Great things never come from comfort zones.
