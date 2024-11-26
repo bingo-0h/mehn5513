@@ -7,3 +7,4 @@ NLP Happiness is not something ready made. It comes from your own actions. Agile
 Message Queue Microservices Framework Edge Computing Security A/B Testing
 Cache Invalidation Artificial Intelligence Kubernetes Innovation distinguishes between a leader and a follower. Content Delivery Network Difficult roads often lead to beautiful destinations. Frontend Great things never come from comfort zones. Quantum Computing Happiness is not something ready made. It comes from your own actions. Database Edge Computing
 Event Sourcing Lambda Functions Latency Optimization Container Orchestration Neural Networks A/B Testing Success is how high you bounce when you hit bottom.
+Happiness is not something ready made. It comes from your own actions. A/B Testing IoT Artificial Intelligence Difficult roads often lead to beautiful destinations.
