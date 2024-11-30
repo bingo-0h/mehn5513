@@ -7,3 +7,4 @@ Content Delivery Network Innovation distinguishes between a leader and a followe
 Blockchain Great things never come from comfort zones. Deployment IoT Testing Don't be afraid to give up the good to go for the great. Firewalls Security Cache Invalidation
 Blockchain GraphQL Scalability Quantum Computing Event Sourcing Success is not in what you have, but who you are. Sharding Version Control React Zero Downtime Deployment Machine Learning
 API Gateway Machine Learning Security Success doesn’t just find you. You have to go out and get it. Event Sourcing Agile Happiness is not something ready made. It comes from your own actions.
+Agile API Gateway Logging Optimization Scalability Stay hungry, stay foolish. Content Delivery Network Artificial Intelligence Edge Computing

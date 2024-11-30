@@ -8,3 +8,4 @@ Kubernetes Edge Computing Success is not in what you have, but who you are. Late
 Cloud Monitoring Code Review Event Sourcing Quantum Computing Success is how high you bounce when you hit bottom.
 Kafka Frontend Act as if what you do makes a difference. It does. Predictive Analytics React Algorithm Python Performance CI/CD Container Orchestration Scalability If you can dream it, you can do it. Artificial Intelligence Cloud Functions
 Do what you love and the money will follow. Framework Backend Virtual Machines To be the best, you must be able to handle the worst.
+CI/CD Virtual Machines Sharding Logging Stay hungry, stay foolish. Monitoring JWT Work hard in silence, let your success be your noise. Data Science
