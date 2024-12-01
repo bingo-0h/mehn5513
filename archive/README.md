@@ -7,3 +7,4 @@ Data Science Big Data React Kafka Blockchain Database
 Kubernetes Edge Computing Success is not in what you have, but who you are. Latency Optimization Event Sourcing JWT Act as if what you do makes a difference. It does. Scalability Container Orchestration
 Cloud Monitoring Code Review Event Sourcing Quantum Computing Success is how high you bounce when you hit bottom.
 Kafka Frontend Act as if what you do makes a difference. It does. Predictive Analytics React Algorithm Python Performance CI/CD Container Orchestration Scalability If you can dream it, you can do it. Artificial Intelligence Cloud Functions
+Do what you love and the money will follow. Framework Backend Virtual Machines To be the best, you must be able to handle the worst.
