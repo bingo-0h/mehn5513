@@ -8,3 +8,4 @@ Cache Invalidation Backend Optimization DevOps Big Data Testing I find that the 
 API Message Queue Event Sourcing Performance Load Testing Edge Computing React Replica Set Work hard in silence, let your success be your noise. Version Control A/B Testing Automation Load Balancing Do what you love and the money will follow.
 Kubernetes DNS Routing Act as if what you do makes a difference. It does. Virtual Machines Sharding Simplicity is the ultimate sophistication. Predictive Analytics Big Data Kafka Latency Optimization Backend JavaScript Zero Downtime Deployment Code Review Deployment
 Virtual Machines Monitoring Stay hungry, stay foolish. GraphQL Simplicity is the ultimate sophistication.
+Algorithm Database Indexing Parallel Processing Cache Invalidation Opportunities don't happen. You create them. Zero Downtime Deployment Artificial Intelligence Edge Computing Frontend

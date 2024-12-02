@@ -6,3 +6,4 @@ WebSockets DevOps Python Cache Invalidation Testing
 Content Delivery Network Innovation distinguishes between a leader and a follower. Neural Networks Code Review Load Balancing Difficult roads often lead to beautiful destinations. Success is not in what you have, but who you are. Virtual Machines GraphQL Artificial Intelligence Great things never come from comfort zones. Distributed Systems
 Blockchain Great things never come from comfort zones. Deployment IoT Testing Don't be afraid to give up the good to go for the great. Firewalls Security Cache Invalidation
 Blockchain GraphQL Scalability Quantum Computing Event Sourcing Success is not in what you have, but who you are. Sharding Version Control React Zero Downtime Deployment Machine Learning
+API Gateway Machine Learning Security Success doesn’t just find you. You have to go out and get it. Event Sourcing Agile Happiness is not something ready made. It comes from your own actions.
