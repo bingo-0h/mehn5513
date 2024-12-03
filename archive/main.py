@@ -4,3 +4,4 @@ Load Balancing The only way to do great work is to love what you do. Logging Con
 Cloud Kafka Automation Sharding Predictive Analytics UX Optimization Agile Logging Kubernetes A/B Testing Load Balancing Frontend Optimization Code Review DNS Routing
 NLP API WebSockets Microservices Success doesn’t just find you. You have to go out and get it. Quantum Computing Deployment
 CI/CD DevOps Testing Firewalls Parallel Processing Innovation distinguishes between a leader and a follower. Database Algorithm A/B Testing Backend RabbitMQ
+Algorithm Machine Learning Big Data Cloud Functions Work hard in silence, let your success be your noise. Serverless Event-driven Architecture
