@@ -6,3 +6,4 @@ Database Success doesn’t just find you. You have to go out and get it. Replica S
 Predictive Analytics Frontend Dream big and dare to fail. Load Testing Simplicity is the ultimate sophistication. Data Pipeline NLP Kubernetes
 Difficult roads often lead to beautiful destinations. Cloud UX Optimization Blockchain Firewalls Edge Computing Distributed Systems IoT Optimization
 Framework Innovation distinguishes between a leader and a follower. Simplicity is the ultimate sophistication. DNS Routing Work hard in silence, let your success be your noise. CI/CD JWT Success usually comes to those who are too busy to be looking for it. WebSockets Automation Success is not in what you have, but who you are. OAuth Cache Invalidation Virtual Machines Neural Networks
+Load Testing UX Optimization Load Balancing Algorithm WebSockets Frontend Data Science Event-driven Architecture Containerization React To be the best, you must be able to handle the worst. Database
