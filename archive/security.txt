@@ -9,3 +9,4 @@ Code Review Act as if what you do makes a difference. It does. Machine Learning 
 Parallel Processing Happiness is not something ready made. It comes from your own actions. Agile Edge Computing Message Queue I find that the harder I work, the more luck I seem to have. Event Sourcing CI/CD Database Indexing Testing
 Frontend Kafka To be the best, you must be able to handle the worst. NLP Load Testing API Gateway Container Orchestration Firewalls Testing Blockchain Version Control Replica Set Innovation distinguishes between a leader and a follower. Big Data DNS Routing
 Security Event Sourcing Difficult roads often lead to beautiful destinations. Testing Kafka Performance Dream big and dare to fail.
+Parallel Processing Lambda Functions Logging To be the best, you must be able to handle the worst. The only way to do great work is to love what you do. Database Indexing Framework Success is how high you bounce when you hit bottom. API
