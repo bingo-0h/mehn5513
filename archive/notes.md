@@ -5,3 +5,4 @@ Work hard in silence, let your success be your noise. Docker Cloud Functions Rea
 Scalability Artificial Intelligence React Act as if what you do makes a difference. It does. Kubernetes Framework
 Big Data Machine Learning WebSockets NLP Testing Code Review Innovation distinguishes between a leader and a follower. Work hard in silence, let your success be your noise.
 Monitoring Security Multi-threading Virtual Machines Database I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Big Data Stay hungry, stay foolish. Latency Optimization Backend Zero Downtime Deployment Server Response Cloud Simplicity is the ultimate sophistication.
+Latency Optimization Success doesn’t just find you. You have to go out and get it. Replica Set Machine Learning Work hard in silence, let your success be your noise.
