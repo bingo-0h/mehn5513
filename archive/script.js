@@ -8,3 +8,4 @@ GraphQL Replica Set Blockchain Machine Learning Message Queue Frontend
 Server Response Work hard in silence, let your success be your noise. UX Optimization Testing React Parallel Processing To be the best, you must be able to handle the worst. Kubernetes
 Performance Event-driven Architecture Distributed Systems Scalability Success doesn’t just find you. You have to go out and get it. Logging Dream big and dare to fail. RabbitMQ Don't be afraid to give up the good to go for the great. Message Queue
 Event-driven Architecture Monitoring Pull Request API Gateway Big Data React Data Science Latency Optimization
+Testing Content Delivery Network UX Optimization Automation Algorithm Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Agile
