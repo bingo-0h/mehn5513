@@ -6,3 +6,4 @@ Data Pipeline Cloud Backend IoT React Frontend Container Orchestration Replica S
 A/B Testing Kafka IoT GraphQL API Gateway Backend Event Sourcing Machine Learning Optimization CI/CD Parallel Processing Security
 Container Orchestration IoT Database Parallel Processing Frontend Opportunities don't happen. You create them. Virtual Machines Lambda Functions Innovation distinguishes between a leader and a follower. Database Indexing
 Cloud Functions If you can dream it, you can do it. Frontend Performance Data Pipeline RabbitMQ
+Work hard in silence, let your success be your noise. Kubernetes If you can dream it, you can do it. Big Data Load Testing WebSockets JWT Code Review Multi-threading Frontend Lambda Functions Microservices Sharding
