@@ -5,3 +5,4 @@ Algorithm Zero Downtime Deployment Distributed Systems Agile NLP GraphQL Perform
 Data Pipeline Cloud Backend IoT React Frontend Container Orchestration Replica Set OAuth Firewalls JavaScript Optimization Kafka Opportunities don't happen. You create them.
 A/B Testing Kafka IoT GraphQL API Gateway Backend Event Sourcing Machine Learning Optimization CI/CD Parallel Processing Security
 Container Orchestration IoT Database Parallel Processing Frontend Opportunities don't happen. You create them. Virtual Machines Lambda Functions Innovation distinguishes between a leader and a follower. Database Indexing
+Cloud Functions If you can dream it, you can do it. Frontend Performance Data Pipeline RabbitMQ
