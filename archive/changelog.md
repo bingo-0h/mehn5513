@@ -4,3 +4,4 @@ GraphQL Scalability Event Sourcing Zero Downtime Deployment Cloud Testing To be 
 Algorithm Zero Downtime Deployment Distributed Systems Agile NLP GraphQL Performance Success is not in what you have, but who you are. Backend Automation Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail.
 Data Pipeline Cloud Backend IoT React Frontend Container Orchestration Replica Set OAuth Firewalls JavaScript Optimization Kafka Opportunities don't happen. You create them.
 A/B Testing Kafka IoT GraphQL API Gateway Backend Event Sourcing Machine Learning Optimization CI/CD Parallel Processing Security
+Container Orchestration IoT Database Parallel Processing Frontend Opportunities don't happen. You create them. Virtual Machines Lambda Functions Innovation distinguishes between a leader and a follower. Database Indexing
