@@ -6,3 +6,4 @@ Optimization To be the best, you must be able to handle the worst. Success is no
 Load Testing Monitoring Performance Event Sourcing Logging Parallel Processing Backend Happiness is not something ready made. It comes from your own actions. Database I find that the harder I work, the more luck I seem to have. Event-driven Architecture
 Microservices Replica Set Message Queue Backend Serverless Event Sourcing I find that the harder I work, the more luck I seem to have. WebSockets Database
 WebSockets Pull Request Framework Security Success usually comes to those who are too busy to be looking for it. Database Indexing Automation Big Data Do what you love and the money will follow. Kafka Server Response
+Optimization Do what you love and the money will follow. NLP Distributed Systems Stay hungry, stay foolish. API Cache Invalidation I find that the harder I work, the more luck I seem to have. Artificial Intelligence Blockchain Container Orchestration

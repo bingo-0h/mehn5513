@@ -3,3 +3,4 @@ Success is how high you bounce when you hit bottom. I find that the harder I wor
 GraphQL Scalability Event Sourcing Zero Downtime Deployment Cloud Testing To be the best, you must be able to handle the worst. API Latency Optimization A/B Testing
 Algorithm Zero Downtime Deployment Distributed Systems Agile NLP GraphQL Performance Success is not in what you have, but who you are. Backend Automation Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail.
 Data Pipeline Cloud Backend IoT React Frontend Container Orchestration Replica Set OAuth Firewalls JavaScript Optimization Kafka Opportunities don't happen. You create them.
+A/B Testing Kafka IoT GraphQL API Gateway Backend Event Sourcing Machine Learning Optimization CI/CD Parallel Processing Security
