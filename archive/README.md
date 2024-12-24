@@ -5,3 +5,4 @@ Algorithm Framework Multi-threading Serverless Neural Networks Great things neve
 Data Pipeline Firewalls Message Queue Load Testing Opportunities don't happen. You create them. Containerization CI/CD Event-driven Architecture Content Delivery Network Optimization Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it.
 Data Science Big Data React Kafka Blockchain Database
 Kubernetes Edge Computing Success is not in what you have, but who you are. Latency Optimization Event Sourcing JWT Act as if what you do makes a difference. It does. Scalability Container Orchestration
+Cloud Monitoring Code Review Event Sourcing Quantum Computing Success is how high you bounce when you hit bottom.
