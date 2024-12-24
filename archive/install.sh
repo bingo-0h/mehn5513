@@ -1,2 +1,3 @@
 JavaScript Python Data Science Parallel Processing Kubernetes Container Orchestration Backend Load Testing Difficult roads often lead to beautiful destinations. Algorithm Message Queue Multi-threading
 Success doesn’t just find you. You have to go out and get it. Artificial Intelligence Act as if what you do makes a difference. It does. Docker Innovation distinguishes between a leader and a follower. Do what you love and the money will follow. Distributed Systems Parallel Processing Testing If you can dream it, you can do it.
+Microservices Edge Computing Artificial Intelligence DNS Routing Sharding Scalability Monitoring If you can dream it, you can do it. Python
