@@ -3,3 +3,4 @@ Microservices Big Data Kafka Algorithm Agile Success is not in what you have, bu
 Containerization Replica Set Zero Downtime Deployment Stay hungry, stay foolish. IoT Performance Algorithm Success doesn’t just find you. You have to go out and get it.
 Data Science JavaScript Dream big and dare to fail. Automation Serverless Cloud Functions Firewalls Quantum Computing Backend DNS Routing CI/CD Database
 DNS Routing A/B Testing Load Balancing The only way to do great work is to love what you do. Great things never come from comfort zones. Cache Invalidation Testing NLP Do what you love and the money will follow. Cloud Functions Load Testing Edge Computing API Distributed Systems Container Orchestration
+Container Orchestration I find that the harder I work, the more luck I seem to have. Scalability Event Sourcing Optimization Success is how high you bounce when you hit bottom. Neural Networks Blockchain
