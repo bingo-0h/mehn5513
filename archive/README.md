@@ -3,3 +3,4 @@ Frontend Microservices Monitoring Neural Networks Lambda Functions To be the bes
 Automation Success usually comes to those who are too busy to be looking for it. Event-driven Architecture Agile Neural Networks Predictive Analytics Cloud Functions Quantum Computing Performance Containerization Virtual Machines
 Algorithm Framework Multi-threading Serverless Neural Networks Great things never come from comfort zones. Work hard in silence, let your success be your noise. Happiness is not something ready made. It comes from your own actions. Frontend Server Response
 Data Pipeline Firewalls Message Queue Load Testing Opportunities don't happen. You create them. Containerization CI/CD Event-driven Architecture Content Delivery Network Optimization Innovation distinguishes between a leader and a follower. The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it.
+Data Science Big Data React Kafka Blockchain Database
