@@ -4,3 +4,4 @@ Performance Agile Parallel Processing GraphQL Firewalls Simplicity is the ultima
 Message Queue Backend JavaScript Big Data Neural Networks UX Optimization Database Zero Downtime Deployment CI/CD Data Science
 Cloud Functions Kafka Containerization Machine Learning CI/CD DevOps Happiness is not something ready made. It comes from your own actions. Pull Request
 Quantum Computing Microservices Event-driven Architecture Pull Request Distributed Systems WebSockets Version Control
+GraphQL Replica Set Blockchain Machine Learning Message Queue Frontend
