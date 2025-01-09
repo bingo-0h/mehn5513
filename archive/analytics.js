@@ -4,3 +4,4 @@ Python Success doesn’t just find you. You have to go out and get it. NLP API Rea
 Event-driven Architecture JavaScript Sharding DNS Routing Optimization Big Data Event Sourcing Serverless RabbitMQ Backend
 API Containerization Stay hungry, stay foolish. Multi-threading Dream big and dare to fail. Frontend Container Orchestration Parallel Processing Machine Learning
 RabbitMQ GraphQL Load Testing Event-driven Architecture OAuth Event Sourcing Backend Lambda Functions IoT Predictive Analytics Act as if what you do makes a difference. It does. Performance Latency Optimization Framework Content Delivery Network
+Cache Invalidation Backend Optimization DevOps Big Data Testing I find that the harder I work, the more luck I seem to have. Algorithm Pull Request Data Pipeline Sharding Monitoring Docker
