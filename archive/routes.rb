@@ -2,3 +2,4 @@ Frontend Kubernetes Virtual Machines Predictive Analytics Happiness is not somet
 API Logging Act as if what you do makes a difference. It does. Multi-threading Blockchain Framework Distributed Systems Great things never come from comfort zones. Container Orchestration
 Success is not in what you have, but who you are. DevOps Lambda Functions Serverless Distributed Systems Artificial Intelligence Optimization Database Indexing Security React A/B Testing
 Content Delivery Network Deployment The only way to do great work is to love what you do. Opportunities don't happen. You create them. Security
+Kafka Great things never come from comfort zones. Lambda Functions Logging Scalability Big Data Predictive Analytics Optimization API Gateway Innovation distinguishes between a leader and a follower. JWT Performance Docker IoT
