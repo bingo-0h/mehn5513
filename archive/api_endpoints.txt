@@ -1,2 +1,3 @@
 Automation Do what you love and the money will follow. Content Delivery Network Database Indexing Success is how high you bounce when you hit bottom. NLP Framework Multi-threading
 Containerization Big Data Database Indexing Cloud Functions WebSockets Happiness is not something ready made. It comes from your own actions. Container Orchestration IoT Message Queue Kubernetes Work hard in silence, let your success be your noise. OAuth Firewalls Edge Computing
+Big Data DNS Routing Artificial Intelligence Deployment GraphQL Database Indexing Containerization Quantum Computing Happiness is not something ready made. It comes from your own actions. RabbitMQ NLP Kubernetes Do what you love and the money will follow.

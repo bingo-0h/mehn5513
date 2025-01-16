@@ -3,3 +3,4 @@ If you can dream it, you can do it. UX Optimization Cloud CI/CD JWT
 Python Success doesn’t just find you. You have to go out and get it. NLP API React Microservices Agile Kubernetes
 Event-driven Architecture JavaScript Sharding DNS Routing Optimization Big Data Event Sourcing Serverless RabbitMQ Backend
 API Containerization Stay hungry, stay foolish. Multi-threading Dream big and dare to fail. Frontend Container Orchestration Parallel Processing Machine Learning
+RabbitMQ GraphQL Load Testing Event-driven Architecture OAuth Event Sourcing Backend Lambda Functions IoT Predictive Analytics Act as if what you do makes a difference. It does. Performance Latency Optimization Framework Content Delivery Network
