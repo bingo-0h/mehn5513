@@ -3,3 +3,4 @@ Pull Request Multi-threading Frontend Data Pipeline Containerization Framework D
 Performance Agile Parallel Processing GraphQL Firewalls Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Do what you love and the money will follow.
 Message Queue Backend JavaScript Big Data Neural Networks UX Optimization Database Zero Downtime Deployment CI/CD Data Science
 Cloud Functions Kafka Containerization Machine Learning CI/CD DevOps Happiness is not something ready made. It comes from your own actions. Pull Request
+Quantum Computing Microservices Event-driven Architecture Pull Request Distributed Systems WebSockets Version Control
