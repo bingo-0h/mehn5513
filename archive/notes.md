@@ -1,2 +1,3 @@
 Optimization Content Delivery Network OAuth RabbitMQ Code Review Don't be afraid to give up the good to go for the great. Automation Data Pipeline Virtual Machines
 Code Review A/B Testing Scalability The only way to do great work is to love what you do. Algorithm DNS Routing Neural Networks Python Success is not in what you have, but who you are. Dream big and dare to fail.
+Success is how high you bounce when you hit bottom. Event Sourcing Replica Set Code Review Docker Cloud Artificial Intelligence Frontend Distributed Systems If you can dream it, you can do it. Simplicity is the ultimate sophistication. Data Pipeline Quantum Computing
