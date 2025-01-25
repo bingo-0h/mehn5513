@@ -1,2 +1,3 @@
 DNS Routing Virtual Machines Lambda Functions Dream big and dare to fail. NLP Monitoring WebSockets Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions.
 Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Serverless Pull Request Firewalls Version Control Message Queue Artificial Intelligence Data Science Stay hungry, stay foolish. Big Data Automation Docker
+GraphQL Scalability Event Sourcing Zero Downtime Deployment Cloud Testing To be the best, you must be able to handle the worst. API Latency Optimization A/B Testing
