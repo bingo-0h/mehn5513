@@ -3,3 +3,4 @@ Predictive Analytics Automation React Algorithm WebSockets Parallel Processing A
 Performance I find that the harder I work, the more luck I seem to have. Logging GraphQL NLP Stay hungry, stay foolish. Opportunities don't happen. You create them. Latency Optimization Load Balancing Quantum Computing Parallel Processing Cloud Firewalls Frontend
 Logging WebSockets RabbitMQ Distributed Systems Opportunities don't happen. You create them. Database
 To be the best, you must be able to handle the worst. GraphQL Load Testing DNS Routing Stay hungry, stay foolish. Backend Difficult roads often lead to beautiful destinations. Cloud Logging Cache Invalidation Blockchain A/B Testing Virtual Machines
+Machine Learning Deployment Event-driven Architecture Sharding API Do what you love and the money will follow. Distributed Systems JWT JavaScript Work hard in silence, let your success be your noise.
