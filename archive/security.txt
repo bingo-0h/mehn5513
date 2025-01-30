@@ -1,2 +1,3 @@
 Latency Optimization Great things never come from comfort zones. Big Data Frontend Database Indexing Code Review Zero Downtime Deployment
 DevOps Monitoring Scalability API Neural Networks Lambda Functions Event Sourcing API Gateway OAuth
+Scalability Machine Learning Logging Latency Optimization Content Delivery Network Backend Artificial Intelligence Kubernetes Kafka Load Balancing Microservices Version Control
