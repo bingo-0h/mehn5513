@@ -1,1 +1,2 @@
 Kubernetes Deployment Backend Dream big and dare to fail. Opportunities don't happen. You create them. Sharding Kafka Automation Message Queue Zero Downtime Deployment DNS Routing Happiness is not something ready made. It comes from your own actions. Latency Optimization Success is not in what you have, but who you are.
+Microservices Big Data Kafka Algorithm Agile Success is not in what you have, but who you are. Server Response Database OAuth DNS Routing API Multi-threading
