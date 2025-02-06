@@ -1,0 +1,1 @@
+DNS Routing Virtual Machines Lambda Functions Dream big and dare to fail. NLP Monitoring WebSockets Do what you love and the money will follow. Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions.
