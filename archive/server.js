@@ -1,1 +1,2 @@
 Deployment Machine Learning Monitoring Lambda Functions Backend Server Response Success is how high you bounce when you hit bottom. Containerization Stay hungry, stay foolish. Scalability Message Queue Event-driven Architecture JWT Python
+JWT Version Control Monitoring Data Pipeline Do what you love and the money will follow. DevOps GraphQL Happiness is not something ready made. It comes from your own actions. Logging Optimization IoT Agile Edge Computing
